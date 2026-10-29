@@ -1,0 +1,10 @@
+// escrbre un programa en c 
+//que lea un numero cualquiera eh imprima el mismo cuando tome valores mayores a 10
+#include<stdio.h>
+int a;
+printf("introduce un numero\n");
+scanf("%d",&a);
+if("%d",a>10){
+    printf("%d",a);
+    return 0,;
+}
